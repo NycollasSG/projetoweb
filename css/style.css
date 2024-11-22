@@ -8,9 +8,27 @@ footer{
     text-align: center;
 }
 
+a[href="mailto:nycollasgarcia78@gmail.com"]{
+    color: rgb(0, 0, 0);
+}
+
+a:hover{
+    color: blue;
+}
+
 .josefin-sans {
   font-family: "Josefin Sans", sans-serif;
   /*font-optical-size: auto;*/
-  font-weight: 30;
+  font-weight: 400;
   font-style: normal;
+}
+
+.edu-au-vic-wa-nt-pre{
+  font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#imagem {
+    text-align: center;
 }
