@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(243, 240, 61);
+}   
+
+footer{
+    font-style: oblique;
+    font-style: italic;
+    text-align: center;
+}
+
+.josefin-sans {
+  font-family: "Josefin Sans", sans-serif;
+  /*font-optical-size: auto;*/
+  font-weight: 30;
+  font-style: normal;
+}
